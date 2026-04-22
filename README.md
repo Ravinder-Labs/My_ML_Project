@@ -68,3 +68,8 @@ pip install -r requirements.txt
 
 # 4. Start the Flask server
 python application.py
+
+---
+### 📝 Detailed Project Breakdown
+I have written a comprehensive guide on how I handled data cleaning and multicollinearity for this project. 
+**👉[Read the full article on Hashnode](https://ravinderlabs.hashnode.dev/breaking-down-multicollinearity-how-i-cleaned-messy-data-for-an-ml-pipeline)**
