@@ -50,6 +50,10 @@ Coming from a Quality Engineering and SDET background, I can't just write code a
 
 ---
 
+### 📝 Detailed Project Breakdown
+I have written a comprehensive guide on how I handled data cleaning and multicollinearity for this project.
+👉 **[Read the full article on Hashnode](https://ravinderlabs.hashnode.dev/breaking-down-multicollinearity-how-i-cleaned-messy-data-for-an-ml-pipeline)**
+
 ## 💻 Run it locally
 
 If you want to pull this down and run it on your own machine:
@@ -69,7 +73,5 @@ pip install -r requirements.txt
 # 4. Start the Flask server
 python application.py
 
----
-### 📝 Detailed Project Breakdown
-I have written a comprehensive guide on how I handled data cleaning and multicollinearity for this project. 
-**👉[Read the full article on Hashnode](https://ravinderlabs.hashnode.dev/breaking-down-multicollinearity-how-i-cleaned-messy-data-for-an-ml-pipeline)**
+--- 
+
